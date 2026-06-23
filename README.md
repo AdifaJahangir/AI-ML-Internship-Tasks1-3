@@ -1,8 +1,6 @@
 # AI-ML-Internship-Tasks1-3
 AI/ML Engineering Internship Tasks - DevelopersHub Corporation
 
-# AI/ML Internship Tasks (Combined Notebook)
-
 ## Overview
 
 This repository contains all internship tasks completed in a single Jupyter Notebook.
