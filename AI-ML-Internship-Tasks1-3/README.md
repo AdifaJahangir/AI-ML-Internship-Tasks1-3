@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains all internship tasks completed in a single Jupyter Notebook.
+This repository contains all internship tasks completed in a single Google Colab Notebook.
 
 ## Tasks Included
 
